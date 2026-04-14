@@ -1,0 +1,13 @@
+{
+    "configuration": "default",
+    "documentId": "9d2080de34ebceed1cc9ba44",
+    "documentMicroversion": "924afb92abe0916d5658c6b6",
+    "elementId": "31dbeb30a3b5fa850e5eeeac",
+    "fullConfiguration": "default",
+    "id": "MD9R5K/ONzeF/mSrS",
+    "isStandardContent": false,
+    "name": "dc_converter_5.3_32v_to_1.2_32v <1>",
+    "partId": "JFD",
+    "suppressed": false,
+    "type": "Part"
+}

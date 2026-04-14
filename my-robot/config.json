@@ -1,0 +1,9 @@
+{
+  "url": "https://cad.onshape.com/documents/9d2080de34ebceed1cc9ba44/w/3a1644932f3a523ccc92595b/e/56ccc4c1c9e4b5ecf9cbc1f9",
+  "outputFormat": "urdf",
+  "assemblyName": "pybullet_v2",
+  "jointMaxEffort": 1.67,
+  "jointMaxVelocity": 3.0,
+  "noRobotFrame": false,
+  "simplifyTransforms": true
+}
